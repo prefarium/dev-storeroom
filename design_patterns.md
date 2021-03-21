@@ -1,9 +1,7 @@
-# Design Patterns
+# Паттерны разработки
+## Essential RubyOnRails patterns
 
-## Статьи
-
-### Essential RubyOnRails patterns, _medium.com_
-
+Пока это лучший ресурс по паттернам, из тех что мне попался.
 В каждой статье есть ссылки на дополнительные материалы.
 Эти материалы значительно помогают в понимании паттерна
 
@@ -12,11 +10,17 @@
 3. [Clients and Wrappers](https://medium.com/selleo/essential-rubyonrails-patterns-clients-and-wrappers-c19320bcda0)
 4. [Form Object](https://medium.com/selleo/essential-rubyonrails-patterns-form-objects-b199aada6ec9)
 
-### Каталог паттернов проектирования, _refactoring.guru_
+## Каталог паттернов проектирования на [refactoring.guru](https://refactoring.guru/)
+
+Выглядит ресурс многообещающе, так как содержит подробные объяснения с картинками,
+но я пока сильно не вникал
 
 1. [Каталог](https://refactoring.guru/ru/design-patterns/catalog)
 2. [Примеры кода](https://refactoring.guru/ru/design-patterns/ruby)
 
-## Видео
+## Серия роликов от [GoRails](https://gorails.com/series/design-patterns)
 
-1. Серия роликов от GoRails: [Design Patterns](https://gorails.com/series/design-patterns)
+Не смотрел. Оставляю тут ссылку, чтобы не потерять.
+Если кто-то захочет посмотреть - напишите мне - скину сами ролики (так-то они доступны только по подписке)
+
+[Собственно ссылка](https://gorails.com/series/design-patterns) - чтобы была
